@@ -5,7 +5,6 @@ A sleek and responsive personal portfolio website showcasing my skills, projects
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yogita Ingale - Portfolio & Resume 2025</title>
   <link rel="stylesheet" href="styleYG.css">
   <script src="scriptYG.js"></script>
 </head>
