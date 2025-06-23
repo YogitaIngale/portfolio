@@ -111,17 +111,6 @@ A sleek and responsive personal portfolio website showcasing my skills, projects
     <h2>Let's Talk!</h2>
     <p>Interested in working together? Fill out the form with your project details and I'll get back to you as soon as possible.</p>
     <p>📧 ingyogita95@gmail.com | 📞 +91 9119595717 <br>📍 Pune, India</p>
-
-    <form class="contact-form" onsubmit="sendMessage(event)">
-        <input type="text" name="name" placeholder="Your Name" required>
-        <input type="email" name="email" placeholder="Email Address" required>
-        <input type="text" name="subject" placeholder="Subject" required>
-        <textarea name="message" rows="5" placeholder="Message" required></textarea>
-        <button type="submit">Send Message</button>
-      </form>
-       
-      <p id="success-msg" style="display: none; color: #43aa8b; font-weight: 600; text-align: center; margin-top: 1rem;">
-    Message successfully sent!
   </p>
   </section>
 
