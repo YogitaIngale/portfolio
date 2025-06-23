@@ -6,7 +6,6 @@ A sleek and responsive personal portfolio website showcasing my skills, projects
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styleYG.css">
-  <script src="scriptYG.js"></script>
 </head>
 <body>
 
