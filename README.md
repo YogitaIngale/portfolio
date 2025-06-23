@@ -107,13 +107,6 @@ A sleek and responsive personal portfolio website showcasing my skills, projects
   </div>
 
 </section>
-  <section id="contact">
-    <h2>Let's Talk!</h2>
-    <p>Interested in working together? Fill out the form with your project details and I'll get back to you as soon as possible.</p>
-    <p>📧 ingyogita95@gmail.com | 📞 +91 9119595717 <br>📍 Pune, India</p>
-  </p>
-  </section>
-
   <footer>
     ★ Yogita Ingale ★ Java Developer &copy; 2025
   </footer>
